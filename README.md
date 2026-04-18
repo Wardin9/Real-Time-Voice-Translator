@@ -62,8 +62,8 @@ Voice / Video Call Platform
 Current support includes:
 
 * English
+* Swahili
 * Hindi
-* Myanmar
 
 The architecture is designed to allow additional languages in future versions.
 
